@@ -4,6 +4,7 @@ class School
 	char school_grade;
 	int school_strength;
 
+	//this is a parameterized constructor
 	School(String a, char b, int c)
 	{
 		school_name = a;
