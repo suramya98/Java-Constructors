@@ -4,6 +4,7 @@ class Tv
 	String tv_brand;
 	String tv_type;
 
+	//this is a parameterized constructor
 	Tv(int a, String b, String c){
 		tv_cost = a;
 		tv_brand = b;
