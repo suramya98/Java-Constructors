@@ -12,6 +12,14 @@ class School
 		school_strength = c;
 	}
 
+	// constructor using this keyword
+	// School(String school_name, char school_grade, int school_strength)
+	// {
+	// 	this.school_name = school_name;
+	// 	this.school_grade = school_grade;
+	// 	this.school_strength = school_strength;
+	// }
+	
 	public static void main(String[] args)
 	{
 		System.out.println("School Details");
